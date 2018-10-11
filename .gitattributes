@@ -1,0 +1,6 @@
+02-javamagazine_January_February_2012-dl.pdf filter=lfs diff=lfs merge=lfs -text
+03-javamagazine_March_April_2012-dl.pdf filter=lfs diff=lfs merge=lfs -text
+04-javamagazine_May_June_2012-dl.pdf filter=lfs diff=lfs merge=lfs -text
+05-javamagazine_July_August_2012-dl.pdf filter=lfs diff=lfs merge=lfs -text
+06-javamagazine_September_October_2012-dl.pdf filter=lfs diff=lfs merge=lfs -text
+07-javamagazine_November_December_2012-dl.pdf filter=lfs diff=lfs merge=lfs -text
